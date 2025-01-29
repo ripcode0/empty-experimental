@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+#directories
+[Bb]in/
+[Bb]uild/
+.vscode/
+[Ee]xternal/
+[Ll]ib/
